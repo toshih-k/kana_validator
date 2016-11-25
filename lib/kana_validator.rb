@@ -1,0 +1,3 @@
+module KanaValidator
+  # Your code goes here...
+end
